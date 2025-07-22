@@ -1,0 +1,39 @@
+## MCQ 1
+Question: What is the primary function of feature extraction in speech processing?
+A) To increase the amount of information in a speech signal
+B) To reduce the amount of information in a speech signal while retaining the most important data
+C) To convert digital signals into analog signals
+D) To recognize spoken language
+Correct Answer: B
+
+## MCQ 2
+Question: What is the Nyquist-Shannon Theorem used for in signal processing?
+A) To determine the frequency of a sound wave
+B) To convert analog signals into digital signals
+C) To define the conditions under which an analog signal can be sampled and perfectly reconstructed
+D) To recognize spoken language
+Correct Answer: C
+
+## MCQ 3
+Question: What is the main difference between phonemes and allophones?
+A) Phonemes are written representations of sounds, while allophones are spoken sounds
+B) Phonemes are spoken sounds, while allophones are variations of phonemes
+C) Phonemes are used in one language, while allophones are used in another language
+D) Phonemes are discrete units of sound, while allophones are continuous units of sound
+Correct Answer: B
+
+## MCQ 4
+Question: What is the purpose of the source-filter model in speech production?
+A) To generate the acoustic energy of speech
+B) To modify the sound produced by the vocal cords
+C) To break down speech production into two main components: source and filter
+D) To recognize spoken language
+Correct Answer: C
+
+## MCQ 5
+Question: What is the function of quantization in analog-to-digital conversion?
+A) To convert digital signals into analog signals
+B) To reduce the amount of information in a speech signal
+C) To assign digital values to analog samples
+D) To determine the frequency of a sound wave
+Correct Answer: C
