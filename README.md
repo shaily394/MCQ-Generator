@@ -5,10 +5,10 @@ Generate Multiple Choice Questions (MCQs) instantly from TXT/PDF/DOCX files usin
 🔗 Live Demo
 👉 [Click here](https://mcq-generator-8bc4.onrender.com)
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
-- 🧠 Groq's LLM (via LangChain)
-- 🔗 LangChain (Prompt handling & LLM orchestration)
-- 🐍 Python (Programming Language)
-- ⚗️ Flask (Web framework)
-- 📤 Render (Deployment)
+- Groq's LLM (via LangChain)
+- LangChain (Prompt handling & LLM orchestration)
+-  Python (Programming Language)
+-  Flask (Web framework)
+-  Render (Deployment)
